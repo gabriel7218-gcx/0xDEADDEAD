@@ -12,7 +12,6 @@ A small Windows prank program written in C++ using the Win32 API and GDI.
 * Message boxes
 * Sound effects
 * Multiple threads
-* A few questionable decisions
 
 ## Building
 
@@ -41,3 +40,10 @@ Some effects may behave differently depending on the Windows version and hardwar
 This program is intended as a prank/experimental graphics project.
 
 **Don't run it on a computer you don't control.**
+
+## Screenshots
+
+<img src="http://163.176.41.69/assets/VirtualBox_Windows%20XP_01_10_2026_11_16_18.png" width="600">
+<img src="http://163.176.41.69/assets/VirtualBox_Windows%20XP_01_10_2026_11_16_24.png" width="600">
+<img src="http://163.176.41.69/assets/VirtualBox_Windows%20XP_01_10_2026_11_16_49.png" width="600">
+<img src="http://163.176.41.69/assets/VirtualBox_Windows%20XP_01_10_2026_11_17_10.png" width="600">
