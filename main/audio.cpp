@@ -11,7 +11,7 @@ uint8_t bS(uint32_t t) {
 
     if (t < s) {
         return (uint8_t)(
-            10 * t * (t >> 5 | t >> 9) & (t >> 2 | t >> 3)
+            t * (t >> 7 | t >> 12)
         );
     }
 
